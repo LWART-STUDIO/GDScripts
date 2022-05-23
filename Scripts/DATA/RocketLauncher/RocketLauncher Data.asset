@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 199027cb1e66e494f8402b6ff5afea04, type: 3}
+  m_Name: RocketLauncher Data
+  m_EditorClassIdentifier: 
+  Gun:
+    Name: 
+    Prefub: {fileID: 515429533424632508, guid: 0d7ac2606b782a5448e2115acfcc2f65, type: 3}
+    BulletsData: {fileID: 11400000, guid: 876fa0cffb7bc4541b3bcb29cced1392, type: 2}
+    OneHand: 1
+    NumberOfBullets: 4

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faf491a769b42d343afdca17aa056435, type: 3}
+  m_Name: Guns Data
+  m_EditorClassIdentifier: 
+  GunsData:
+  - GunData: {fileID: 11400000, guid: 95866295afae45e40bc79e1e195635dc, type: 2}
+    IsBought: 1
+    ImageForShop: {fileID: 2860098403500050481, guid: bea63aa336f85004cb15aecf44eb5a5d, type: 3}
+    Price: 0
+    Pistol: 1
+    Riffle: 0
+    Shorgun: 0
+  - GunData: {fileID: 11400000, guid: 093ba6e874ad55340b202fd9ba1cf215, type: 2}
+    IsBought: 1
+    ImageForShop: {fileID: 5859013494581777439, guid: bea63aa336f85004cb15aecf44eb5a5d, type: 3}
+    Price: 1500
+    Pistol: 1
+    Riffle: 0
+    Shorgun: 0
+  - GunData: {fileID: 11400000, guid: be845730aae540542bbb59f7e25e8ae2, type: 2}
+    IsBought: 1
+    ImageForShop: {fileID: -5654334180098558092, guid: bea63aa336f85004cb15aecf44eb5a5d, type: 3}
+    Price: 3000
+    Pistol: 1
+    Riffle: 0
+    Shorgun: 0
+  - GunData: {fileID: 11400000, guid: 14065b426ff94c84f91946eea9cf18f3, type: 2}
+    IsBought: 0
+    ImageForShop: {fileID: 4467652256505077104, guid: bea63aa336f85004cb15aecf44eb5a5d, type: 3}
+    Price: 3800
+    Pistol: 0
+    Riffle: 0
+    Shorgun: 1
+  - GunData: {fileID: 11400000, guid: 6cb8223fcfa3d8a44a9d7f53262b6926, type: 2}
+    IsBought: 0
+    ImageForShop: {fileID: 1360587961103883461, guid: bea63aa336f85004cb15aecf44eb5a5d, type: 3}
+    Price: 4000
+    Pistol: 0
+    Riffle: 0
+    Shorgun: 1
+  - GunData: {fileID: 11400000, guid: c743fefe2b4f87548b0212342a30b75b, type: 2}
+    IsBought: 0
+    ImageForShop: {fileID: -1799169036818367222, guid: bea63aa336f85004cb15aecf44eb5a5d, type: 3}
+    Price: 4700
+    Pistol: 0
+    Riffle: 1
+    Shorgun: 0
+  - GunData: {fileID: 11400000, guid: de0018428997dd04583815605579f729, type: 2}
+    IsBought: 0
+    ImageForShop: {fileID: 6965188257017768876, guid: bea63aa336f85004cb15aecf44eb5a5d, type: 3}
+    Price: 5500
+    Pistol: 0
+    Riffle: 1
+    Shorgun: 0
+  - GunData: {fileID: 11400000, guid: a1d2742e02172a046a494c5ef65c0602, type: 2}
+    IsBought: 1
+    ImageForShop: {fileID: -5982295727970533425, guid: bea63aa336f85004cb15aecf44eb5a5d, type: 3}
+    Price: 6000
+    Pistol: 0
+    Riffle: 0
+    Shorgun: 1
+  - GunData: {fileID: 11400000, guid: d4391927d7439f647ad1a051b2d436f8, type: 2}
+    IsBought: 0
+    ImageForShop: {fileID: -1983940789488471526, guid: bea63aa336f85004cb15aecf44eb5a5d, type: 3}
+    Price: 7600
+    Pistol: 0
+    Riffle: 1
+    Shorgun: 0
+  - GunData: {fileID: 11400000, guid: b58641d15c95466479c96f3a5b187c3a, type: 2}
+    IsBought: 0
+    ImageForShop: {fileID: 5178200194043857346, guid: bea63aa336f85004cb15aecf44eb5a5d, type: 3}
+    Price: 18500
+    Pistol: 1
+    Riffle: 0
+    Shorgun: 0
+  - GunData: {fileID: 11400000, guid: 78ec5ebaf47e3a449bf3e49f545142a3, type: 2}
+    IsBought: 0
+    ImageForShop: {fileID: -5802159606033367534, guid: bea63aa336f85004cb15aecf44eb5a5d, type: 3}
+    Price: 20000
+    Pistol: 0
+    Riffle: 0
+    Shorgun: 1
+  - GunData: {fileID: 11400000, guid: 97fe628bcb611b04284cfb3e85d9cad5, type: 2}
+    IsBought: 0
+    ImageForShop: {fileID: -1054213570018100158, guid: bea63aa336f85004cb15aecf44eb5a5d, type: 3}
+    Price: 25000
+    Pistol: 0
+    Riffle: 1
+    Shorgun: 0
+  - GunData: {fileID: 11400000, guid: 24122849235b5f54e8687b248177b4a6, type: 2}
+    IsBought: 0
+    ImageForShop: {fileID: -4980399837372718428, guid: bea63aa336f85004cb15aecf44eb5a5d, type: 3}
+    Price: 35000
+    Pistol: 0
+    Riffle: 0
+    Shorgun: 0
